@@ -30,7 +30,7 @@ public class methodEx4 {
 
         int i = obj.m1();
         System.out.println("Control returned after m1: " + i);
-
+        
         int o = Test.get();
         System.out.println("No of instances created: " + o);
     }

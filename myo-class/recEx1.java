@@ -1,7 +1,7 @@
 public class recEx1 {
     
         public static void main(String[] args) {
-          int result = sum(10);
+          int result = sum(100);
           System.out.println(result);
         }
 

@@ -1,4 +1,5 @@
 class newClass {
+    
     static void printMessage() {
         System.out.println("Hello, world!");
     }
